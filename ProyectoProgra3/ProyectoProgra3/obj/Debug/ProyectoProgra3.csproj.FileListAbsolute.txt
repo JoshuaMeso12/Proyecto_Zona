@@ -1,0 +1,3 @@
+c:\users\joshua\documents\visual studio 2015\Projects\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.exe.config
+D:\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.exe.config
+C:\Users\Joshua\Joshua\Tareas\Tareas Universidad\3er Semestre\Progra\ProyectoProgra3\ProyectoProgra3\bin\Debug\ProyectoProgra3.exe.config
